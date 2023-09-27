@@ -6,7 +6,7 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sakanachqn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sakanachqn&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **sakanachqn/sakanachqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
