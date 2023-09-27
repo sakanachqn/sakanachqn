@@ -1,5 +1,10 @@
 ### Hi! I'm Kikuchi 👋
 
+<p align="left">
+  <a href="https://github.com/sakanachqn/sakanachqn/">
+    <img src="https://komarev.com/ghpvc/?username=sakanachqn" alt="sakanachqn" />
+  </a>
+</p>
 <!--
 **sakanachqn/sakanachqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
